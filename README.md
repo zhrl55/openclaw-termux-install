@@ -10,4 +10,4 @@
 在 Termux 中执行：
 
 ```bash
-bash <(curl -L https://raw.githubusercontent.com/你的用户名/openclaw-termux-install/main/openclaw_install.sh)
+bash <(curl -L https://raw.githubusercontent.com/zhrl55/openclaw-termux-install/main/openclaw_install.sh)
